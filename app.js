@@ -1,7 +1,9 @@
 const projects = [
- {name:"Aztec",type:"ZK testnet"},
- {name:"Gensyn",type:"AI compute"},
- {name:"Movement",type:"Move ecosystem"}
+ {name:"EigenLayer",type:"Restaking protocol"},
+ {name:"Celestia",type:"Modular blockchain"},
+ {name:"Berachain",type:"DeFi ecosystem"},
+ {name:"Fuel Network",type:"Optimistic rollup"},
+ {name:"Monad",type:"High performance L1"}
 ];
 
 const container = document.getElementById("projects");
