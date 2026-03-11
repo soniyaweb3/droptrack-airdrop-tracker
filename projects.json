@@ -1,7 +1,34 @@
 {
  "projects":[
-  {"name":"Aztec","type":"ZK"},
-  {"name":"Gensyn","type":"AI"},
-  {"name":"Movement","type":"Move"}
+  {
+   "name":"EigenLayer",
+   "category":"Restaking Protocol",
+   "status":"Mainnet",
+   "network":"Ethereum"
+  },
+  {
+   "name":"Berachain",
+   "category":"DeFi Ecosystem",
+   "status":"Testnet",
+   "network":"Layer1"
+  },
+  {
+   "name":"Monad",
+   "category":"High Performance Blockchain",
+   "status":"Development",
+   "network":"Layer1"
+  },
+  {
+   "name":"Fuel Network",
+   "category":"Optimistic Rollup",
+   "status":"Testnet",
+   "network":"Ethereum"
+  },
+  {
+   "name":"Celestia",
+   "category":"Modular Blockchain",
+   "status":"Mainnet",
+   "network":"Modular"
+  }
  ]
 }
