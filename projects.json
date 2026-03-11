@@ -1,0 +1,7 @@
+{
+ "projects":[
+  {"name":"Aztec","type":"ZK"},
+  {"name":"Gensyn","type":"AI"},
+  {"name":"Movement","type":"Move"}
+ ]
+}
