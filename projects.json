@@ -32,3 +32,17 @@
   }
  ]
 }
+[
+  {
+    "name": "LayerZero",
+    "type": "Testnet",
+    "tasks": ["Bridge tokens", "Swap on DEX"],
+    "status": "Active"
+  },
+  {
+    "name": "zkSync",
+    "type": "Airdrop",
+    "tasks": ["Use bridge", "Interact with dApps"],
+    "status": "Ongoing"
+  }
+]
