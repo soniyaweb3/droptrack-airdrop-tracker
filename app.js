@@ -13,3 +13,4 @@ projects.forEach(p=>{
  div.innerText = p.name + " - " + p.type;
  container.appendChild(div);
 });
+console.log("DropTrack dashboard loaded");
