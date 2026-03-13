@@ -46,3 +46,9 @@
     "status": "Ongoing"
   }
 ]
+{
+  "name": "Scroll",
+  "type": "Testnet",
+  "tasks": ["Bridge ETH", "Interact with dApps"],
+  "status": "Active"
+}
